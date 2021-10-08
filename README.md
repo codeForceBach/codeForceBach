@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codeForceBach
-- 👀 I’m interested in Full Stack Java Development 
-- 🌱 I’m currently deep dive into java, Hibernate, Servlet and the list keep growing because there are so much to learn and dig in new language and inovation around tech world
+- 👋 Hi, I’m Richard Park
+- 👀 I’m interested in Full Stack Java Development Restful Web API 
+- 🌱 I’m currently deep dive into learning java, Hibernate, Servlet and the list keep growing because there are so much to learn and dig in new language and inovation around tech world
 - 📫 How to reach me - br.bach@gmail.com or through my work - richard.park@expeditors.com
 - 
 <!---
